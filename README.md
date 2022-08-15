@@ -22,8 +22,9 @@ and associated with the respective client datasets. For the given task, it was f
 federated learning yields larger improvements for labels that occur less in the data and
 that the influence of the considered machine learning model remained small.
 
-![Client-wise results for the AlexNet](./images/results_alexnet.pdf)
-![Client-wise results for the VGG-13](./images/results_vgg13.pdf)
+AlexNet             |  VGG-13
+:-------------------------:|:-------------------------:
+![Client-wise results for the AlexNet](./images/results_alexnet.jpg) | ![Client-wise results for the VGG-13](./images/results_vgg13.jpg)
 
 # Content
 - Master Thesis Report
