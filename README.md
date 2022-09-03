@@ -24,7 +24,10 @@ that the influence of the considered machine learning model remained small.
 
 AlexNet             |  VGG-13
 :-------------------------:|:-------------------------:
+![Table of client-wise and global results for the AlexNet](./images/f1score_table_alexnet.jpg) | ![Table of client-wise and global results for the VGG-13](./images/f1score_table_vgg13.jpg)
 ![Client-wise results for the AlexNet](./images/results_alexnet.jpg) | ![Client-wise results for the VGG-13](./images/results_vgg13.jpg)
+
+Above are the performances of the various Federated Learning algorithms for a federation of five clients with individual datasets, concerning the task of multi-label image classification. Given are the F1-Scores of each algorithm for the held-back test datasets of each client individually as well as the combined global test dataset.
 
 # Content
 - Master Thesis Report
